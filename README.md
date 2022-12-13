@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @kritimauludin 
 - 👀 I'm interested in web programing 
-- 🌱 I'm currently learning node.js 
+- 🌱 I'm currently learning golang
 - 💞️ I’m looking to collaborate on web project
 - My Portofolio, you can see at <a href="https://kritimauludin.github.io">Click Here</a>
 <!---
